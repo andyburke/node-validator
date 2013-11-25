@@ -1,0 +1,16 @@
+{
+  "name": "validator",
+  "repo": "chriso/node-validator",
+  "description": "String validation and sanitization in JavaScript",
+  "version": "2.0.0",
+  "keywords": ["validator","validation","string validator","string validation"],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "license": "MIT",
+  "main": "validator.js",
+  "scripts": [
+    "validator.js"
+  ]
+}
